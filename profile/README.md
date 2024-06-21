@@ -1,14 +1,23 @@
 ## Hi there 👋 We are Team C241-PS246
 
+![Add a heading](https://github.com/Skin-Match/.github/assets/110271485/7583f247-1d47-4771-9678-b39c227bf32b)
 
+# Skin Match
 
-<!--
+Recent studies acknowledge that suitable skin care products based on individuals or groups of skin type and skin condition are needed. Here, we intend to develop an app—Skin Match—which can help our users individualize their at-home skincare routine by using effective products that address their skin type. This can be achieved by making a machine learning model that classified skincare ingredients into 3-types of skin classification—namely: dry skin, oily skin, and combination skin. Skin Match simplifies the selection process, provides valuable insight for decision making, and minimizes errors in using products that are not suitable for skin type.
 
-**Here are some ideas to get you started:**
+# Theme
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Health Innovation: Empowering Vulnerable Communities for Health and Well-being
+
+# Team Member
+
+| Learning Path | ID         | Name                      | University                            | Status  |
+|----------|------------|---------------------------|---------------------------------------|---------|
+| ML       | M004D4KY1489 | Hammam Prasetyo Wibowo    | Sepuluh Nopember Institute of Technology | Active  |
+| ML       | M180D4KX1409 | Dzuria Hilma Qurotu Ain   | Airlangga University                  | Active  |
+| ML       | M180D4KX1497 | Alda Fuadiyah Suryono     | Airlangga University                  | Active  |
+| CC       | C180D4KX0680 | Wangi Melati Amalia       | Airlangga University                  | Active  |
+| CC       | C004D4KY0784 | Nabil Makarim             | Sepuluh Nopember Institute of Technology | Active  |
+| MD       | A335D4KY3493 | Anjong                    | YARSI University                      | Active  |
+| MD       | A335D4KY3471 | Muhammad Naufal           | YARSI University                      | Active  |
