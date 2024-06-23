@@ -21,3 +21,9 @@ Health Innovation: Empowering Vulnerable Communities for Health and Well-being
 | CC       | C004D4KY0784 | Nabil Makarim             | Sepuluh Nopember Institute of Technology | Active  |
 | MD       | A335D4KY3493 | Anjong                    | YARSI University                      | Active  |
 | MD       | A335D4KY3471 | Muhammad Naufal           | YARSI University                      | Active  |
+
+# Demo Video
+
+https://github.com/wangimelati/GenAI-app/assets/110271485/04739f1a-6136-4412-a56f-a4feb86b4406
+
+https://drive.google.com/file/d/1_Cs5YCm5CiNpgKG3n0iGC4XTsee4FdOo/view?usp=sharing
